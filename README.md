@@ -6,26 +6,6 @@ Projeto de banco de dados de um sistema de controle para uma sorveteria fictíci
 
 A sorveteria Coração Gelado tem como propósito oferecer sorvetes artesanais, preparados com ingredientes naturais e receitas exclusivas. Seu objetivo é proporcionar uma experiência saborosa e acolhedora aos clientes em um ambiente agradável. O minimundo busca representar os principais processos de vendas, produção e gestão de estoque da sorveteria.
 
-## Modelo Conceitual (Esboço)
-
-<img width="600" height="600" alt="Captura de tela 2025-11-16 120808" src="https://github.com/user-attachments/assets/f306ea5b-6f85-41be-ae34-4093122f6764" />
-
-## Modelo Modelo Lógico (Final)
-
-<img width="600" height="600" alt="Captura de tela 2025-11-24 183113" src="https://github.com/user-attachments/assets/ab58c30d-df28-4ca7-b5c7-47fb56e82fa5" />
-
-## Tecnologias Utilizadas
-
-* **MySQL 8+** ou **MariaDB 10+**
-* SQL padrão ANSI
-* Ferramentas opcionais:
-
-  * *MySQL Workbench* (modelagem e execução de scripts)
-  * *DBeaver* (administração universal)
-  * *VSCode* com extensão SQL
-
----
-
 ## Estrutura do Repositório
 
 ```
@@ -37,6 +17,18 @@ A sorveteria Coração Gelado tem como propósito oferecer sorvetes artesanais, 
 ├── updates_deletes.sql      # Comandos UPDATE e DELETE
 └── modelo-logico.png        # Imagem do DER utilizado no projeto
 ```
+
+---
+
+## Tecnologias Utilizadas
+
+* **MySQL 8+** ou **MariaDB 10+**
+* SQL padrão ANSI
+* Ferramentas opcionais:
+
+  * *MySQL Workbench* (modelagem e execução de scripts)
+  * *DBeaver* (administração universal)
+  * *VSCode* com extensão SQL
 
 ---
 
@@ -91,6 +83,14 @@ Executar:
 ```
 updates_deletes.sql
 ```
+
+## Modelo Conceitual (Esboço)
+
+<img width="600" height="600" alt="Captura de tela 2025-11-16 120808" src="https://github.com/user-attachments/assets/f306ea5b-6f85-41be-ae34-4093122f6764" />
+
+## Modelo Modelo Lógico (Final)
+
+<img width="600" height="600" alt="Captura de tela 2025-11-24 183113" src="https://github.com/user-attachments/assets/ab58c30d-df28-4ca7-b5c7-47fb56e82fa5" />
 
 # Modelo de Dados Detalhado (DER)
 
