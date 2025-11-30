@@ -14,8 +14,7 @@ A sorveteria Coração Gelado tem como propósito oferecer sorvetes artesanais, 
 ├── 01_create_tables.sql        # Criação das tabelas do banco
 ├── 02_insert_data.sql          # População inicial das tabelas
 ├── 03_queries.sql              # Consultas com SELECT e JOIN
-├── 04_updates_deletes.sql      # Comandos UPDATE e DELETE
-└── modelo-logico.png           # Imagem do DER utilizado no projeto
+└── 04_updates_deletes.sql      # Comandos UPDATE e DELETE
 ```
 
 ---
