@@ -10,12 +10,12 @@ A sorveteria Coração Gelado tem como propósito oferecer sorvetes artesanais, 
 
 ```
 / (raiz)
-├── README.md                # Documento principal do projeto
-├── create_tables.sql        # Criação das tabelas do banco
-├── insert_data.sql          # População inicial das tabelas
-├── queries.sql              # Consultas com SELECT e JOIN
-├── updates_deletes.sql      # Comandos UPDATE e DELETE
-└── modelo-logico.png        # Imagem do DER utilizado no projeto
+├── README.md                   # Documento principal do projeto
+├── 01_create_tables.sql        # Criação das tabelas do banco
+├── 02_insert_data.sql          # População inicial das tabelas
+├── 03_queries.sql              # Consultas com SELECT e JOIN
+├── 04_updates_deletes.sql      # Comandos UPDATE e DELETE
+└── modelo-logico.png           # Imagem do DER utilizado no projeto
 ```
 
 ---
@@ -57,7 +57,7 @@ USE sorveteria;
 Execute o script:
 
 ```
-create_tables.sql
+01_create_tables.sql
 ```
 
 ### **4. Inserir dados**
@@ -65,7 +65,7 @@ create_tables.sql
 Execute:
 
 ```
-insert_data.sql
+02_insert_data.sql
 ```
 
 ### **5. Testar o banco com consultas**
@@ -73,7 +73,7 @@ insert_data.sql
 Rode o arquivo:
 
 ```
-queries.sql
+03_queries.sql
 ```
 
 ### **6. Atualizar ou remover registros**
@@ -81,7 +81,7 @@ queries.sql
 Executar:
 
 ```
-updates_deletes.sql
+04_updates_deletes.sql
 ```
 
 ## Modelo Conceitual (Esboço)
