@@ -85,11 +85,11 @@ Executar:
 
 ## Modelo Conceitual (Esboço)
 
-<img width="600" height="600" alt="Captura de tela 2025-11-16 120808" src="https://github.com/user-attachments/assets/f306ea5b-6f85-41be-ae34-4093122f6764" />
+<img width="600" height="600" alt="Captura de tela 2025-11-16 120808" src="DER Conceitual.png" />
 
 ## Modelo Modelo Lógico (Final)
 
-<img width="600" height="600" alt="Captura de tela 2025-11-24 183113" src="https://github.com/user-attachments/assets/ab58c30d-df28-4ca7-b5c7-47fb56e82fa5" />
+<img width="600" height="600" alt="Captura de tela 2025-11-24 183113" src="DER Logico.png" />
 
 # Modelo de Dados Detalhado (DER)
 
